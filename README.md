@@ -7,7 +7,7 @@
 
 <br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#
+# Sobre mim 
 
 🔭 Sou um engenheiro de dados e estudo Analise e Desenvolvimento de Sistemas (0.5/5 Semestres)<br><br>📒 Atualmente estudo sobre Engenharia de dados utilizando Python, <br>Power BI, Pandas, Scikit learn, Numpy e SQL.<br><br>🙌 Converso sobre qualquer tópico, isso fortalece a comunidade ! <br><br>"O importante é não parar de questionar." - Albert Einstein<br><br>
 
