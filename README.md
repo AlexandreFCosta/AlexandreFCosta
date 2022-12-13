@@ -20,7 +20,7 @@
 ## 
 
 <div align=center>
-🔭 Sou um engenheiro de dados e estudo Analise e Desenvolvimento de Sistemas (0.5/5 Semestres)<br><br>
+🔭 Sou um engenheiro de dados e estudo Analise e Desenvolvimento de Sistemas <br><br>
   
 📒 Atualmente estudo sobre Engenharia de dados utilizando Python, <br>Power BI, Pandas, Scikit learn, Numpy e SQL.<br><br>
   
