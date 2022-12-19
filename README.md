@@ -43,7 +43,5 @@ Olá eu sou o Alexandre !
 
 
 ---
- 
-[![](https://visitcount.itsvg.in/api?id=AlexandreFCosta&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=AlexandreFCosta&color=blue)
