@@ -5,12 +5,12 @@ Olá eu sou o Alexandre !
 
 <div align="center">
   <a href="https://github.com/AlexandreFCosta">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreFCosta&count_private=true&&show_icons=true&theme=blue-green&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFCosta&theme=blue-green&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=AlexandreFCosta&show_icons=true&hide_title=true&hide_rank=false&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC#gh-dark-mode-only"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=AlexandreFCosta&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC#gh-dark-mode-only"/>
   </a>
 </div>
   
- 
+
 <div align="center" style"display: inline_block"><br>
   <img align"center" alt="Alexandre-Python" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
   <img align"center" alt="Alexandre-mysql" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
