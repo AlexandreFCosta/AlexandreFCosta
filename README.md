@@ -10,6 +10,7 @@ Olá eu sou o Alexandre !
   </a>
 </div>
   
+ https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical 
 
 <div align="center" style"display: inline_block"><br>
   <img align"center" alt="Alexandre-Python" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
