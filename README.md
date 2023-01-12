@@ -26,7 +26,7 @@ Olá eu sou o Alexandre !
 <div align=center>
 🔭 Sou um engenheiro de dados e estudo Analise e Desenvolvimento de Sistemas <br><br>
   
-📒 Atualmente estudo sobre Engenharia de dados utilizando Python, <br>Power BI, Pandas, Scikit learn, Numpy e SQL.<br><br>
+📒 Atualmente estudo sobre Engenharia de dados utilizando Python, <br>Power BI, Pandas, PySpark, Scikit learn, Numpy e SQL.<br><br>
   
 🙌 Converso sobre qualquer tópico, isso fortalece a comunidade ! <br><br>
   
