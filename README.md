@@ -5,7 +5,7 @@ Olá eu sou o Alexandre !
 
 <div align="center">
   <a href="https://github.com/AlexandreFCosta">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreFCosta&show_icons=true&theme=gotham"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreFCosta&show_icons=true&include_all_commits=true&theme=gotham"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFCosta&layout=compact&theme=gotham"/>
   </a>
 </div>
