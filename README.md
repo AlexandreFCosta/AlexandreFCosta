@@ -5,10 +5,9 @@ Olá eu sou o Alexandre !
 
 <div align="center">
   <a href="https://github.com/AlexandreFCosta">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreFCosta&show_icons=true&include_all_commits=true&theme=gotham"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFCosta&layout=compact&theme=gotham"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=AlexandreFCosta&show_icons=true&hide_title=true&hide_rank=false&card_width=400&bg_color=0D1117&border_color=30363D&text_color=FFFFFF#gh-dark-mode-only"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=AlexandreFCosta&hide_title=true&layout=compact&bg_color=0D1117&border_color=30363D&text_color=FFFFFF#gh-dark-mode-only"/>
   </a>
-</div>
 
 
 <div align="center" style"display: inline_block"><br>
