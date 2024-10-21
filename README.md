@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Olá eu sou o Alexandre ! 
+Hi, I'm Alexandre!
 </h1>
 
 <div align="center">
@@ -23,13 +23,13 @@ Olá eu sou o Alexandre !
 ## 
 
 <div align=center>
-🔭 Sou um Engenheiro de Dados e estudo Analise e Desenvolvimento de Sistemas <br><br>
+🔭 I'm a Data Engineer and I study Computer Science <br><br>
   
-  📒 Atualmente estudo sobre Ciencia de dados utilizando Python, <br>Azure, Pandas, PySpark, Scikit learn, Numpy, Matplotlib e SQL.<br><br>
+  📒 I'm currently studying Data Science using Python, <br>Azure, Pandas, PySpark, Scikit learn, Numpy, Matplotlib and SQL.<br><br>
   
-🙌 Converso sobre qualquer tópico, isso fortalece a comunidade ! <br><br>
+🙌 I talk about any topic, it strengthens the community! <br><br>
   
-"O importante é não parar de questionar." - Albert Einstein<br><br>
+"The important thing is not to stop questioning." - Albert Einstein<br><br>
 
 </div>
 
