@@ -14,7 +14,6 @@ Olá eu sou o Alexandre !
   <img align"center" alt="Alexandre-Python" height="70" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg" />
   <img align"center" alt="Alexandre-Azure" height="70" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Azure-Dark.svg" />
   <img align"center" alt="Alexandre-Docker" height="70" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg" />
-  <img align"center" alt="Alexandre-Airflow" height="60" width="60" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4" />
   <img align"center" alt="Alexandre-GCP" height="70" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GCP-Dark.svg" />
   <img align"center" alt="Alexandre-mysql" height="70" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg" />
   <img align"center" alt="Alexandre-TensorFlow" height="70" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TensorFlow-Dark.svg" />
