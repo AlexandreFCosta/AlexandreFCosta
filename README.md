@@ -25,7 +25,7 @@ Hi, I'm Alexandre!
 <div align=center>
 🔭 I'm a Data Engineer and I study Computer Science <br><br>
   
-  📒 I'm currently studying Data Science using Python, <br>Azure, Pandas, PySpark, Scikit learn, Numpy, Matplotlib and SQL.<br><br>
+  📒 I'm currently studying Data Engineer and Data Science using Python, <br>Azure, Databricks, Pyspark, PySpark, Scikit learn, Numpy, Matplotlib and SQL.<br><br>
   
 🙌 I talk about any topic, it strengthens the community! <br><br>
   
