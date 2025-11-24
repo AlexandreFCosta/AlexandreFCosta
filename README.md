@@ -28,15 +28,6 @@
 
 **Production-ready framework for building ETL/ELT pipelines across Azure and GCP**
 
-```python
-# Unified API for multi-cloud data processing
-pipeline = Pipeline(cloud_provider=CloudProvider.AZURE)
-pipeline.add_source(AzureBlobConnector(...))
-pipeline.add_transformer(SparkAggregator(...))
-pipeline.add_sink(BigQueryConnector(...))
-pipeline.run()
-```
-
 <table>
   <tr>
     <td align="center"><b>📊 4,800+ Lines</b></td>
@@ -53,6 +44,17 @@ pipeline.run()
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/AlexandreFCosta">
+    <img height="180em" src="https://anthonyraf-stats.vercel.app/api?username=AlexandreFCosta&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&card_width=400&bg_color=FFFFFF&border_color=E4E2E2&text_color=000000&icon_color=2F80ED&title_color=2F80ED"/>
+    <img height="180em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=AlexandreFCosta&layout=compact&langs_count=8&bg_color=FFFFFF&border_color=E4E2E2&text_color=000000&title_color=2F80ED"/>
+  </a>
 </div>
 
 ---
@@ -141,19 +143,6 @@ class DataEngineer:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreFCosta&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&text_color=000000&icon_color=2F80ED&title_color=2F80ED" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFCosta&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&text_color=000000&title_color=2F80ED&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreFCosta&theme=default&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakLabel=000000" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -199,14 +188,6 @@ class DataEngineer:
   </tr>
 </table>
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandreFCosta&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=2F80ED&line=2F80ED&point=2F80ED" alt="Contribution Graph" />
 </div>
 
 ---
