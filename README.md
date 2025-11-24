@@ -66,7 +66,7 @@ class DataEngineer:
     def __init__(self):
         self.name = "Alexandre Costa"
         self.role = "Data Engineer"
-        self.location = "São Paulo, Brazil 🇧🇷"
+        self.location = "Porto, Portugal 🇵🇹 
         self.education = "Computer Science"
         self.experience = "Data Engineering & Cloud Architecture"
     
