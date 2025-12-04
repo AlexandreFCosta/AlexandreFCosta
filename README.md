@@ -192,7 +192,7 @@ class DataEngineer:
 
 ---
 
-## 🎯 Current Goals for 2024
+## 🎯 Current Goals for 2025-2026
 
 - 🚀 Build and maintain production-grade open-source data engineering tools
 - 📚 Share knowledge through technical blog posts and tutorials
